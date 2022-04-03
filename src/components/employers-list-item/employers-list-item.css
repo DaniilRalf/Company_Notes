@@ -1,0 +1,23 @@
+.list-group-item{
+    display: flex;
+    justify-content: space-around;
+
+    font-family: 'Montserrat';
+    color: rgb(62, 62, 62);
+    font-size: 2.5vh;
+
+    margin-bottom: 5px;
+    padding: 5px;
+    border: rgb(62, 62, 62) 1px solid;
+    border-radius: 10px;
+}
+.list-group-item-input{
+    font-family: 'Montserrat';
+    color: rgb(62, 62, 62);
+    font-size: 2.5vh; 
+
+    border: none;
+}
+.btn-cookie{
+    margin-left: 10px;
+}

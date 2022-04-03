@@ -1,0 +1,30 @@
+.btn{
+    font-family: 'Montserrat';
+    color: rgb(229, 229, 229);
+    font-size: 2vh;
+
+    margin-top: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    border-radius: 10px;
+
+    border: rgb(229, 229, 229) 1px solid;
+}
+
+
+.btn-noactive{
+    border: rgb(229, 229, 229) 1px solid;
+    background-color: rgb(229, 229, 229, 20%);
+
+}
+.btn-noactive:hover{
+    background-color: rgb(229, 229, 229);
+    color: rgb(55, 55, 55);  
+}
+
+
+.btn-active{
+    border: rgb(229, 229, 229) 1px solid;
+    background-color: rgb(229, 229, 229);
+    color: rgb(55, 55, 55);
+}
