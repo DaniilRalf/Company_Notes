@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+.Info{
+    font-family: 'Montserrat';
+    color: rgb(229, 229, 229);
+    font-size: 1.5vh;
+
+    padding: 25px;
+    background: linear-gradient(to bottom right, rgb(207, 98, 193), rgb(255, 176, 59));
+    border-radius: 15px;
+}
