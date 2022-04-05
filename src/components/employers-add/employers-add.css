@@ -1,0 +1,39 @@
+.employers-add{
+    font-family: 'Montserrat';
+    color: rgb(229, 229, 229);
+    font-size: 2.5vh;
+
+    padding: 25px;
+    background: linear-gradient(to bottom right, rgb(207, 98, 193), rgb(255, 176, 59));
+    border-radius: 15px;
+    box-shadow: 10px 5px 15px rgb(62, 62, 62, 50%);
+}
+
+.form-control{
+    font-family: 'Montserrat';
+    color: rgb(229, 229, 229);
+    font-size: 2vh;
+
+    background-color: rgb(229, 229, 229, 20%);
+    outline: none;
+    border: rgb(229, 229, 229) 1px solid;
+    border-radius: 10px;
+
+    padding: 10px;
+    width: 43%;
+    margin-right: 5px;
+
+    box-sizing: border-box;
+}
+.add-btn{
+    color: rgb(55, 55, 55);
+}
+.add-form{
+    width: auto;
+}
+
+
+
+::-webkit-input-placeholder {
+    color: rgb(229, 229, 229);
+ }

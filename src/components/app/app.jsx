@@ -2,6 +2,7 @@ import Info from '../info/info';
 import Search from '../search/search';
 import Filter from '../filter/filter';
 import EmployeesList from '../employers-list/employers-list';
+import EmployersAdd from '../employers-add/employers-add';
 
 import './app.css';
 
@@ -15,6 +16,7 @@ function App(){
                 <Filter />
             </div>
             <EmployeesList />
+            <EmployersAdd />
         </div>
     );
 }

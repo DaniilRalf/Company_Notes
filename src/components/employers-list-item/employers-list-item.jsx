@@ -3,17 +3,17 @@ import './employers-list-item.css';
 const EmployeesListItem = () => {
     return (
         <li className="list-group-item">
-            <span className="list-group-item-name">John Smith</span>
+            <span className="list-group-item-name"><b>John Smith</b></span>
             <input type="text" className="list-group-item-input" defaultValue="1000$"/>
             <div className='list-group-item-btn'>
                 <button type="button"
                     className="btn-cookie ">
-                    <i className="">П</i>
+                    <span className="">ПРЕМИЯ</span>
                 </button>
 
                 <button type="button"
                         className="btn-cookie">
-                    <i className="">Х</i>
+                    <span className="">УДАЛИТЬ</span>
                 </button>
 
             </div>

@@ -4,7 +4,8 @@ const Search = () =>{
     return(
         <input 
             type="text" 
-            className="serch" />
+            className="serch" 
+            placeholder='Введите данные'/>
     );
 }
 export default Search;
